@@ -1,0 +1,106 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(141, 206, 228);
+}   
+
+header {
+    justify-content: space-between;
+    padding: 20px 30px;
+    flex-wrap: wrap;
+    top: 0;
+}
+
+header nav {
+    margin: 10px 0;
+}
+
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: right;
+    list-style: none;
+}
+
+li {
+    display: inline;
+}
+
+section {
+    /* margin: 0 auto 30px auto; */
+    /* display: flex; */
+   flex-wrap: wrap;
+   /* width: 30%; */
+    margin: 4%;
+    padding: 16px;
+}
+
+/* About ME */
+.about-me-section {
+    text-align: right;
+
+}
+
+.about-me-section h2 {
+   display: flex;
+   flex-wrap: wrap;
+   width: 30%;
+    margin: 4%;
+    padding: 16px;
+}
+
+.about-me-section p {
+    clear: right;
+}
+
+
+.work-projects {
+    display: grid;
+    
+}
+
+.work-projects h2 {
+    display: flex;
+   flex-wrap: wrap;
+   width: 30%;
+    margin: 4%;
+    padding: 16px;
+}
+
+
+.contact-me-section {
+    text-align: right;
+
+}
+
+.contact-me-section h2 {
+    
+}
+
+
+
+section h2 {
+
+}
+
+.section-title {
+    float: left;
+    font-size: xx-large;
+    border-right: 16px solid black;
+    border-width: medium;
+    padding-right: 16px;
+    padding: 40 16;
+}
+
+footer h2 {
+    /* padding: 0; */
+    float: left;
+    font-size: xx-large;
+    border-right: 16px solid black;
+    border-width: medium;
+    padding-right: 16px;
+    padding: 0 16;
+}
