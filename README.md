@@ -1,9 +1,10 @@
 ### Hi there 👋
+Welcome to my corner or the web. The first bit is free... so are the rest.
 
 
-**leot42/leot42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **leot42/leot42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ... learning project management skill in preparation of fleshing out my portfolio.
 - 🌱 I’m currently learning ... Jira Cloud and SpecFlow. I don't know how I lived without them.
